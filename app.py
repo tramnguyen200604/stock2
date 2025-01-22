@@ -1131,11 +1131,7 @@ def create_buy_sell_analysis_app(folder_path="Thailand_done"):
         
          # Display buy stocks with style
         if not buy_stocks.empty:
-           display(widgets.HTML(value="<h3>Cổ phiếu nên mua:</h3>"))
-           buy_table_html = table_style + buy_stocks[["Ticker", "Date", "Buy Signal"]].style.set_table_attributes('class="dataframe"').to_html()
-           display(widgets.HTML(value=buy_table_html))
-
-           display(widgets.HTML(value=f"<h3>Cổ phiếu cần mua trong ngày {selected_date}</h3>"))
+           display(widgets.HTML(value=f"<h3>Cổ phiếu nên mua trong ngày</h3>"))
            buy_list_table_html = table_style + buy_list[["Ticker", "Date", "Price Close", "Buy Signal"]].style.set_table_attributes('class="dataframe"').to_html()
            display(widgets.HTML(value=buy_list_table_html))
 
@@ -1144,11 +1140,7 @@ def create_buy_sell_analysis_app(folder_path="Thailand_done"):
         
         # Display sell stocks with style
         if not sell_stocks.empty:
-           display(widgets.HTML(value=f"<h3>Cổ phiếu nên bán:</h3>"))
-           sell_table_html = table_style + sell_stocks[["Ticker", "Date", "Sell Signal"]].style.set_table_attributes('class="dataframe"').to_html()
-           display(widgets.HTML(value=sell_table_html))
-            # Display buy and sell lists with style
-           display(widgets.HTML(value=f"<br><h3>Cổ phiếu cần bán trong ngày {selected_date}</h3>"))
+           display(widgets.HTML(value=f"<br><h3>Cổ phiếu nên bán trong ngày</h3>"))
            sell_list_table_html = table_style + sell_list[["Ticker", "Date", "Price Close", "Sell Signal"]].style.set_table_attributes('class="dataframe"').to_html()
            display(widgets.HTML(value=sell_list_table_html))
 
