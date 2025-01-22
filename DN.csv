@@ -1,215 +1,1020 @@
-"Full Name","RIC"
-"Delta Electronics","DELTA"
-"Airports of Thailand","AOT"
-"PTT","PTT"
-"Advanced Information Service","ADVANC"
-"Gulf Energy Development","GULF"
-"Bangkok Dusit Medical Services","BDMS"
-"CP All","CPALL"
-"PTT Exploration and Production","PTTEP"
-"SCB X Public Company Limited","SCB"
-"Stars Microelectronics","SMT"
-"True Corporation","TRUE"
-"2S Metal","2S"
-"3BB Internet Infrastructure","3BBIFu"
-"Aapico Hitech","AH"
-"Absolute Clean Energy","ACE"
-"Addtech Hub","ADDm"
-"Advanced Connection Corporation","ACC"
-"Advanced Information Technology","AIT"
-"Advice IT Infinite","ADVICE"
-"Aeon Thana Sinsap (Thailand)","AEONTS"
-"Aesthetic Connect","TRPm"
-"After You","AUm"
-"Agripure Holdings","APURE"
-"AI Energy","AIE"
-"Asia Medical and Agricultural Laboratory and Research Center","AMARCm"
-"Aikchol Hospital","AHC"
-"AIM Commercial Growth Freehold and Leasehold REIT","AIMCGu"
-"AIM Industrial Growth Freehold and Leasehold REIT","AIMIRTu"
-"Aira Capital","AIRAm"
-"Aira Factoring","AFm"
-"AJ Advance Technology ORS","AJA"
-"AJ Plast","AJ"
-"Akkhie Prakarn","AKPm"
-"AKS Corporation","AKS"
-"All Energy and Utilities","AE"
-"Alla","ALLA"
-"Allianz Ayudhya Capital","AYUD"
-"Ally Freehold and Leasehold REIT Units","ALLYu"
-"Alpha Divisions","ALPHAXm"
-"Alternative Telecom","ALT"
-"Alucon","ALUCON"
-"AMA Marine","AMAm"
-"Amanah Leasing","AMANAH"
-"Amarin Corporations","AMARIN"
-"Amata","AMATA"
-"Amata Summit Growth Freehold and Leasehold REIT","AMATARu"
-"Amata VN","AMATAV"
-"AMR Asia","AMR"
-"Ananda Development","ANAN"
-"AP (Thailand)","AP"
-"Applicad Public Company Limited","APPm"
-"Applied DB","ADBm"
-"Aqua","AQUA"
-"Areeya Property","A"
-"Arinsiri Land","ARINm"
-"Arip","ARIPm"
-"Arrow Syndicate","ARROWm"
-"Asefa","ASEFA"
-"Asia Aviation","AAV"
-"Asia Biomass","ABMm"
-"Asia Capital Group","ACAPm"
-"Asia Fiber","AFC"
-"Asia Green Energy","AGE"
-"Asia Hotel","ASIA"
-"Asia Hotel NVDR","ASIAN"
-"Asia Metal","AMC"
-"Asia Network International","ANI"
-"Asia Plus Group Holdings","ASP"
-"Asia Precision","APCS"
-"Asia Sermkij Leasing","ASK"
-"Asian Alliance International","AAI"
-"Asian Insulators","AI"
-"Asian Marine Services","ASIMAR"
-"Asian Palm Oil","APOm"
-"Asian Phytoceuticals","APCO"
-"ASN Broker","ASNm"
-"Asphere Innovations","AS"
-"Asset Five Group","A5"
-"Asset World","AWC"
-"Assetwise","ASW"
-"ATP30","ATP30m"
-"Aurora Design","AURA"
-"Autocorp Holding","ACG"
-"Axtra Future City Freehold and Leasehold Real Estate Investment Trust","AXTRARTu"
-"B Grimm Power","BGRIM"
-"B-52 Capital","B52"
-"BA Airport Leasehold REIT","BAREITu"
-"Baan Rock Garden","BROCK"
-"Bangchak Corporation ORS","BCP"
-"Bangchak Sriracha","BSRC"
-"Bangkok Airway","BA"
-"Bangkok Bank","BBL"
-"Bangkok Chain Hospital","BCH"
-"Bangkok Commercial Asset Management","BAM"
-"Bangkok December-Con","BKD"
-"Bangkok Expressway and Metro","BEM"
-"Bangkok Genomics Innovation","BKGI"
-"Bangkok Lab and Cosmetic","BLC"
-"Bangkok Land","BLAND"
-"Bangkok Life Assurance","BLA"
-"Bangkok Ranch","BR"
-"Bangkok Sheet Metal","BMm"
-"Bangkok Union Insurance","BUI"
-"Bangsaphan Barmill","BSBM"
-"Bank of Ayudhya","BAY"
-"Banpu","BANPU"
-"Banpu Power","BPP"
-"Bbgi","BBGI"
-"BCPG","BCPG"
-"Beauty Community","BEAUTY"
-"BEC World","BEC"
-"Begistics ORS","B"
-"Berli Jucker","BJC"
-"Beryl 8 Plus","BE8m"
-"Betagro","BTG"
-"Better World Green","BWG"
-"Beyond Securities","BYD"
-"BG Container Glass Public","BGC"
-"Bangkok Aviation Fuel Services","BAFS"
-"BGT","BGTm"
-"Bhiraj Office Leasehold REIT","BOFFICEu"
-"Big Camera","BIG"
-"Bio Green Energy Technology","BIOTEC"
-"Bioscience Animal Health","BISm"
-"Birla Carbon","BCT"
-"BJC Heavy Industries","BJCHI"
-"BKI Holdings","BKIH"
-"Bless Asset Group","BLESSm"
-"Bliss Intelligence","BLISS"
-"Bluebik Group","BBIKm"
-"Blueventure Group","BVGm"
-"Bound and Beyond","BEYOND"
-"Boutique Corporation","BCm"
-"Boutique New City","BTNC"
-"BPS Technology","BPSm"
-"Britania","BRI"
-"BT Wealth Industries","BTWm"
-"BTS Group Holdings","BTS"
-"BTS RAL Msti Growth Infrastructure","BTSGIFu"
-"Bualuang Office Leasehold REIT","B-WORKu"
-"Buildersmart","BSMm"
-"Bumrungrad Hospital","BH"
-"Buriram Sugar Group PWPL Infrastructure","BRRGIFu"
-"Buriram Sugar","BRR"
-"Business Alignment","BIZ"
-"Business Online","BOLm"
-"C P Tower Real Estate Investment Trust","CPTREITu"
-"Cal-Comp Electronics (Thailand)","CCET"
-"Capital Engineering Network","CEN"
-"Carabao Group","CBG"
-"Castle Peak Holdings","CPH"
-"CAZ Thailand Public","CAZm"
-"Centara Hotels and Resorts Leasehold Property","CTARAFu"
-"Central Pattana","CPN"
-"Central Plaza Hotel","CENTEL"
-"Central Retail Corporation","CRC"
-"CH Karnchang","CK"
-"Chai Watana Tannery","CWT"
-"Chamni S Eye","CEYEm"
-"Chaoprayamahanakorn","CMC"
-"Chaosua Foods Industry","CHAO"
-"Charan Insurance","CHARAN"
-"Charn Issara Development","CI"
-"Charoen Pokphand Foods","CPF"
-"Charoong Thai Wire Cable","CTW"
-"Chase Asia","CHASE"
-"Chayo Group","CHAYO"
-"Chememanord","CMAN"
-"Chewathai","CHEWAm"
-"Chiang Mai Ram Medical Business","CMR"
-"Chiangmai Frozen Foods","CM"
-"Chiangmai Rimdoi","CRDm"
-"Chic Republic","CHICm"
-"Chin Huay","CH"
-"CHO Thavee","CHOm"
-"Chonburi Concrete Product","CCP"
-"Chow Steel Industries","CHOWm"
-"Christiani and Nielsen","CNT"
-"Chu Kai","CRANE"
-"Chularat Hospital","CHG"
-"Chumporn Palm Oil Industry","CPI"
-"Chuwit Farm 2019","CFARMm"
-"CI Group","CIGm"
-"CIMB Thai Bank","CIMBT"
-"City Sports and Recreation","CSR"
-"City Steel","CITY"
-"Civil Engineering","CIVIL"
-"CK Power","CKP"
-"Class Venture","KOOLm"
-"Clover Power","CV"
-"CMO","CMOm"
-"COM7","COM7"
-"Comanche International","COMANm"
-"Communication and System Solution","CSS"
-"Copperwired","CPW"
-"Country Group Development","CGD"
-"Country Group Holdings","CGH"
-"CP Axtra Public","CPAXT"
-"Cpanel","CPANELm"
-"CPL Group","CPL"
-"CPN Commercial Growth Leasehold Property","CPNCGu"
-"CPN Retail Growth Leasehold REIT","CPNREITu"
-"Copper Gomu Industrial","CPRm"
-"Concepts Drives and Power","CPT"
-"Crown Seal","CSC"
-"CSP Steel Center","CSP"
-"Dcon Products","DCON"
-"Delta Paint","DPAINTm"
-"Demco","DEMCO"
-"Dental Corporation","Dm"
-"Dexon Technology","DEXONm"
-"Dhipaya Group Holdings","TIPH"
-"Dhouse Pattana","DHOUSEm"
-"D","DRT"
+RIC,Full Name
+DELTA,Delta Electronics
+AOT,Airports of Thailand
+PTT,PTT
+ADVANC,Advanced Information Service
+GULF,Gulf Energy Development
+BDMS,Bangkok Dusit Medical Services
+CPALL,CP All
+PTTEP,PTT Exploration and Production
+SCB,SCB X Public Company Limited
+SMT,Stars Microelectronics
+2S,2S Metal
+3BBIFu,3BB Internet Infrastructure
+AH,Aapico Hitech
+ACE,Absolute Clean Energy
+ADDm,Addtech Hub
+ACC,Advanced Connection Corporation
+AIT,Advanced Information Technology
+AEONTS,Aeon Thana Sinsap (Thailand)
+AUm,After You
+APURE,Agripure Holdings
+AIE,AI Energy
+AMARCm,Asia Medical and Agricultural Laboratory and Research Center
+AHC,Aikchol Hospital
+AIMCGu,AIM Commercial Growth Freehold and Leasehold REIT
+AIMIRTu,AIM Industrial Growth Freehold and Leasehold REIT
+AIRAm,Aira Capital
+AFm,Aira Factoring
+AJA,AJ Advance Technology ORS
+AJ,AJ Plast
+AKPm,Akkhie Prakarn
+AKS,AKS Corporation
+AE,All Energy and Utilities
+ALLA,Alla
+AYUD,Allianz Ayudhya Capital
+ALLYu,Ally Freehold and Leasehold REIT Units
+ALPHAXm,Alpha Divisions
+ALT,Alternative Telecom
+ALUCON,Alucon
+AMAm,AMA Marine
+AMANAH,Amanah Leasing
+AMARIN,Amarin Corporations
+AMATA,Amata
+AMATARu,Amata Summit Growth Freehold and Leasehold REIT
+AMATAV,Amata VN
+AMR,AMR Asia
+ANAN,Ananda Development
+AP,AP (Thailand)
+APPm,Applicad Public Company Limited
+AS,Asphere Innovations
+BEAUTY,Beauty Community
+BEC,BEC World
+CSR,City Sports and Recreation
+CITY,City Steel
+CIVIL,Civil Engineering
+CKP,CK Power
+KOOLm,Class Venture
+CV,Clover Power
+CMOm,CMO
+CPNCGu,CPN Commercial Growth Leasehold Property
+CPNREITu,CPN Retail Growth Leasehold REIT
+CPRm,Copper Gomu Industrial
+CPT,Concepts Drives and Power
+CSC,Crown Seal
+CSP,CSP Steel Center
+DCON,Dcon Products
+DPAINTm,Delta Paint
+DEMCO,Demco
+Dm,Dental Corporation
+TIPH,Dhipaya Group Holdings
+DHOUSEm,Dhouse Pattana
+DRT,Diamond Building Products
+DIFu,Digital Telecommunications Ifcf
+DIMETm,Dimet (Siam)
+DITTO,Ditto (Thailand)
+DDD,Do Day Dream
+DODm,DOD Biotechnology
+DOHOME,Dohome
+DMT,Don Muang Tollway
+DTCENT,DTC Enterprise
+DTCI,DTC Industries
+DUSIT,Dusit Thani
+DREITu,Dusit Thani Freehold and Leasehold REIT
+DV8m,DV8
+DCC,Dynasty Ceramic
+EFORLm,E for L AIM
+ETC,Earth Technology Environment
+EASON,Eason&
+ECFm,East Coast Furnitech
+ECL,Eastern Commercial Leasing
+EPG,Eastern Polymer Group
+EP,Eastern Power
+ESTAR,Eastern Star Real Estate
+ETEm,Eastern Technical Engineering
+EASTW,Eastern Water Resources Development and Management
+EKH,Ekachai Medical Care
+AKR,Ekarat Engineering
+EGCO,Electricity Generating
+EMC,EMC
+EA,Energy Absolute
+ERW,Erawan Group
+EE,Eternal Energy
+UREKAm,Eureka Design
+EVER,Everland
+XOm,Exotic Foods
+FANCY,Fancy Wood Industries
+FE,Far East Fame Line DDB ORS
+FVCm,Filter Vision
+FMT,Fine Metal Technologies
+FTE,Firetrade Engineering
+FLOYDm,Floyd
+FN,FN Factory Outlet
+FNS,FNS Holdings
+FND,Food and Drinks
+FORTH,Forth
+FSMARTm,Forth Smart Service
+FPIm,Fortune Participations Industry
+FTREITu,Frasers Prop THA Industrielle FHLH REIT
+FPT,Frasers Property Public
+FTI,Function International
+GCAPm,G Capital
+GJS,G J Steel
+GSTEEL,G Steel
+GEL,General Engineering
+GENCO,General Environmental Conservation
+GTBm,Getabec
+GFPT,GFPT
+RSXYZ,Gift Infinite
+GC,Global Connections
+GLOCON,Global Consumer
+GGC,Global Green Chemicals
+GPSC,Global Power Synergy
+VSm,Global Service Center
+GBX,Globlex Holding
+GLORYm,Glory Forever
+GRAMMY,GMM Grammy
+SUTHA,Golden Lime
+GVREITu,Golden Ventures Leasehold REIT
+GYT,Goodyear (Thailand)
+GLAND,Grand Canal Land
+GPI,Grand Prix International
+GRAND,Grande Asset Hotels and Property
+GAHREITu,Grande Hospitality REIT Unit
+GROREITu,Grande Royal Orchid Hospitality REIT
+GREEN,Green Resources
+GTVm,Green Technology Ventures
+GL,Group Lease
+GUNKUL,Gunkul Engineering
+HTC,Haad Thip
+HTECH,Halcyon Technology
+HANA,Hana Microelectronics
+HARNm,Harn Engineering Solutions
+HEALTHm,Health Empire Corporation
+HLm,Healthlead
+HPFu,Hemaraj Industrial Property and Leasehold
+HENG,Heng Leasing and Capital
+HPTm,Home Pottery
+HMPRO,Home Product Center
+HUMAN,Humanica
+HFT,Hwa Fong Rubber (Thailand)
+HYDROGENu,Hydg FHLH Real Estate Investment
+HYDROm,Hydrotek
+IIGm,I&I Group
+ITC,I-Tail
+ICC,ICC International
+ICHI,Ichitan Group
+IFS,IFS Capital (Thailand)
+INSURE,Indara Insurance
+INDm,Index International Group
+ILM,Index Living M
+IVL,Indorama Ventures
+INETREITu,Inet Freehold and Leasehold REIT
+ICN,Information and Communication Networks
+INSET,Infraset
+INGRS,Ingress Industrial
+IRC,Inoue Rubber
+IP,Inter Pharma
+IHL,Interhides
+ILINK,Interlink Communication
+ITEL,Interlink Telecom
+IMHm,Intermedical Care and Lab Hospital
+ITNSm,International Network System
+IRCPm,International Research
+INET,Internet Thailand
+INTUCH,Intouch Holdings
+IMPACTu,Ipct Growth Real Estate Investment Trust Units
+IRPC,IRPC
+IT,IT City
+ITD,Italian-Thai Development
+JR,J R W Utility
+JCT,Jack Chia Industries
+JAKm,Jakpaisan Estate
+J,JAS Asset
+JAS,Jasmine International
+JTS,Jasmine Technology Solution
+JMART,Jaymart Group Holdings
+JCKHm,JCK Hospitality
+JCK,JCK International ORS
+JDF,JD Food
+JKN,JKN Global Group
+JMT,JMT Network Services
+JSPm,JSP Pharmaceutical Manufacturing (Thailand)
+JUBILEm,Jubilee Enterprise
+KWMm,K W Metal Work
+KKm,K&K Superstore Southern
+KYE,Kang Yong Electric
+KAMART,Karmarts
+KTIS,Kaset Thai International Sugar
+KBANK,Kasikornbank
+KC,KC Property
+KCE,KCE Electronics
+KEX,Kerry Express (Thailand)
+CHOTI,Kiang Huat Sea Gull Trading Frozen Food
+KGI,KGI Securities
+KSL,Khon Kaen Sugar
+KBS,Khonburi Sugar
+KBSPIFu,Khonburi Sugar Power Plant Infrastructure
+KKP,Kiatnakin Phatra Bank
+KIAT,Kiattana Transport
+KGENm,King General
+Km,Kingsmen C M T I
+KJLm,Kitcharoen Engineering Electric
+KLINIQm,Klinique Medical Clinic
+KTB,Krung Thai Bank
+KWC,Krungdhep Sophon
+KCAR,Krungthai Car Rent and Lease
+KTC,Krungthai Card
+KTMSm,KT Medical Service
+KTBSTMRu,KTBST MXD Freehold and Leasehold REIT
+KKC,Kulthorn Kirby
+KUMWELm,Kumwell Corporation
+KWI,KWI
+LPH,Ladprao General Hospital
+LRH,Laguna Resorts and Hotels
+LALIN,Lalin Property
+LST,Lam Soon
+LH,Land and Houses
+LANNA,Lanna Resources
+LDCm,LDC Dental
+LITm,Lease IT
+LEE,Lee Feed Mill
+LEOm,LEO Global Logistics
+LHFG,LH Financial Group
+LHHOTELu,LH Hotel Leasehold Real Estate Investment Trust Units
+LHSCu,LH Shopping Centers Leasehold REIT
+LNE,Lighting and Equipment
+LHK,Lohakit Metal
+LOXLEY,Loxley
+LPN,LPN Development
+LUXFu,Luxury Real Estate Investment
+MVPm,M Vision
+M-CHAI,Mahachai Hospital
+MAJOR,Major Cineplex Group
+MJD,Major Development
+MTWm,Make to Win Holding
+MALEE,Malee Group
+MANRIN,Mandarin Hotel
+MATCH,Matching Maximize Solution
+MATI,Matichon
+MST,Maybank Securities (Thailand) Public Company Limited
+MBK,MBK
+MC,MC Group
+MCOT,Mcot
+MCS,MCS Steel
+MDX,MDX
+MEGA,Mega Lifesciences
+MGTm,Megachem (Thailand)
+MENA,Mena Transport
+METAm,Meta Corporation
+MSC,Metro Systems
+MFC,MFC Asset Management
+MITu,MFC Industrial Real Estate Investment Trust Units
+M-PATu,MFC Patong Heritage Property
+MNITu,MFC-Nichada Thani Property
+M-STORu,MFC-Strategic Storage
+MFEC,Mfec
+MICRO,Micro Leasing
+MIDA,Mida Assets
+ML,Mida Leasing
+MILL,Millcon Steel
+MIPFu,Millionaire Property
+MINT,Minor International
+MITSIBm,Mitsib Leasing
+MJLFu,MJR CPX Lifestyle Leasehold Property
+MK,MK Real Estate Development
+M,MK Restaurant Group
+MODERN,Modernform Group
+MONO,Mono Next
+MOONGm,Moong Pattana International
+MOREm,More Return
+MOSHI,Moshi Moshi Retail
+MTI,Muang Thai Insurance
+MTC,Muangthai Capital ORS
+MUDm,MUD and Hound
+MNRFu,Multi-National Residence
+MBAXm,Multibax
+METCO,Muramoto Electron
+NYT,Namyong Terminal
+NATION,Nation Group (Thailand)
+NNCL,Navanakorn
+NWR,Nawarat Patanakarn
+NCH,NC Housing
+NCLm,NCL International Logistics
+NDRm,ND Rubber
+NEP,NEP Realty and Industry
+NETBAYm,Netbay
+NC,New City (Bangkok)
+NPKm,New Plus Knitting
+NEWSm,News Network Corporation
+NEX,NEX Point
+NCAP,Next Capital
+NFC,NFC
+SECUREm,Nforce Secure
+TIDLOR,Ngern TID LOR
+MNIT2u,Nichada Thani Property 2
+NVD,Nirvana Development
+NOBLE,Noble Development
+NOK,NOK Airlines
+NTV,Nonthavej Hospital
+EGATIFu,North Bangkok Power Plant Block 1 Infrastructure Fund
+NER,North East Rubbers
+NOVA,Nova Empire
+NV,Nova Organic
+NRF,NR Instant Produce
+NSL,NSL Foods
+OCC,OCC
+OGC,Ocean Glass
+OHTL,Ohtl
+ONEE,One Enterprise
+ORI,Origin Property
+OSP,Osotspa
+PACE,Pace Development
+PAP,Pacific Pipe
+PAF,Pan Asia Footwear
+PJW,Panjawattana Plastic
+PK,Patkol
+PATO,Pato Chemical Industry
+PCSGH,PCS Machine Group Holding
+PEACE,Peace and Living
+PEERm,Peer for You
+PRAPATm,Peerapat Technology
+PG,People's Garment
+PERM,Permsin Steel Works
+PL,Phatra Leasing
+PHOLm,Phol Dhanya
+PICOm,Pico Thailand
+PIN,Pinthong Industrial Park
+PPFu,Pinthong Industrial Park Property
+PIMOm,Pioneer Motor
+PLANB,Plan B Media
+PLANETm,Planet Communications Asia
+PTECH,Plus Technology Innovation
+PMTA,PM Thoresen Asia Holdings
+POLAR,Polaris Capital
+POLY,Polynet
+PTL,Polyplex (Thailand)
+PPMm,Porn Prom Metal
+INOX,Posco-Thainox
+PLE,Power Line Engineering
+PSTCm,Power Solution Technologies
+PPPM,PP Prime
+PRAKIT,Prakit Holdings
+PDJ,Pranda Jewelry
+PR9,Praram 9 Hospital
+PREB,Pre-Built
+PSL,Precious Shipping
+PCC,Precise Public
+PRECHA,Preecha Group
+PM,Premier Marketing
+PPP,Premier Products
+PTCm,Premier Tank
+PT,Premier Technology
+PACOm,President Automobile Industries
+PB,President Bakery
+PRG,PRG Corporation
+PRM,Prima Marine
+POPFu,Prime Office Leasehold Property
+PRIME,Prime Road Power
+PRIm,Primo Service
+PRINC,Principal Capital
+PRIN,Prinsiri
+PDGm,Prodigy
+PROENm,Proen
+PRO,Professional Waste Technology
+PPSm,Project Planning Service
+PF,Property Perfect
+PROSm,Prosper Engineering
+PROUD,Proud Real Estate
+PROSPECTu,Prospect Logistics and Industrial Free and Lease REIT
+PSH,Pruksa Holding
+PSGm,PSG Corporation
+PTG,Participating Energy
+PTTGC,PTT Global Chemical
+OR,PTT Oil and Retail Business
+PYLON,Pylon
+QTC,QTC Energy
+QLTm,Qualitech
+Q-CON,Quality Construction Products
+QHOPu,Quality Hospitality Leasehold Property
+QH,Quality Houses
+RBF,R&B Food Supply
+RABBIT,Rabbit Holdings
+RML,Raimon Land
+RPm,Raja Ferry Port
+RJH,Rajthanee Hospital Public
+RAM,Ramkhamhaeng Hospital
+RATCH,Ratch Group Public Company Limited
+SCG,Ratch Pathana Energy
+RPH,Ratchaphruek Hospital
+THANI,Ratchthani Leasing
+RWIm,Rayong Wire Industries
+RCL,Regional Containers Lines
+TITLEm,Rhom BHO Property
+RSP,Rich Sport
+RICHY,Richy Place 2002
+RT,Right Tunnelling
+ROCK,Rockworth
+ROCTEC,Roctec Global
+ROJNA,Rojana Industrial Park
+KISS,Rojukiss International
+ROH,Royal Orchid Hotel (Thailand)
+PLUS,Royal Plus
+RPC,RPCG
+RS,RS
+SNJ,S&J International Enterprises
+SNP,Standard and Poor's Syndicate
+SHR,S Hotels and Resorts
+SORKON,S Khonkaen Foods
+SKN,S Kijchai Enterprise
+SPVIm,Save Prosper V I
+SPACK,S Pack and Print
+SPRIMEu,S Prime Growth Leasehold REIT
+S11,S11 Group
+SAAMm,Saam Development
+SABINA,Sabina
+SABUY,Sabuy Technology
+SAFARI,Safari World
+SPI,Saha Pathana Inter-Holding
+SPC,Saha Pathanapibul
+SUC,Saha-Union
+SQ,Sahakol Equipment
+SMIT,Sahamit Machinery
+SMPC,Sahamitr Pressure Container
+STPm,Sahathai Printing and Packaging
+PORT,Sahathai Terminal
+SMD100m,Saintmed
+SKE,Sakol Energy
+SAK,Saksiam Leasing
+SSPFu,Sala @ Sathorn Property
+COLORm,Salee Colour
+SALEEm,Salee Industry
+SLP,Salee Printing
+SAMART,Samart
+SDC,Samart Digital ORS
+SAMTEL,Samart Telcoms
+SAM,Samchai Steel Industries
+SAMCO,Sammakorn
+SANKOm,Sanko Diecasting
+SIRI,Sansiri
+SAPPE,Sappe
+SAWANG,Sawang Export
+SC,SC Asset
+SCN,Scan Inter
+SCBSETu,SCB Set Index Fund
+SCGP,SCG Packaging
+SJWD,SCGJWD Logistics
+SCI,SCI Electric
+SE-ED,Securities-Education
+SEAOIL,Sea Oil
+SEAFCO,Seafco
+CFRESH,Seafresh Industry
+SELIC,Selic
+SENXm,Sen X
+SENA,Sena Development
+SSP,Sermsang Power Corporation
+SGC,SG Capital
+SGFm,SGF Capital
+SHANG,Shangri-La Hotel
+SWCm,Sherwood Corporation (Thailand)
+SFTm,Shrinkflex (Thailand)
+STHAI,Shun Thai Rubber Gloves Industry
+SCC,Siam Cement
+SCCC,Siam City Cement
+GLOBAL,Siam Global House
+SPG,Siam Pan Group
+SIAM,Siam Steel International
+SSSC,Siam Steel Service Centre
+STECH,Siam Technic Concrete
+SPA,Siam Wellness Group
+SE,Siameast Solutions
+SA,Siamese Asset
+SGP,Siamgas and Petrochemicals
+SRm,Siamraj
+SO,Siamrajathanee
+SKR,Sikarin
+SICTm,Silicon Craft Technology
+SIMATm,Simat Technologies
+SINGER,Singer Thailand
+S,Singha Estate
+SKm,Sirakorn
+SIS,SIS Distribution (Thailand)
+SISB,Sisb
+SKY,Sky ICT
+STOWERm,Sky Tower
+SMARTm,Smart Concrete
+SNC,SNC Former
+SOLAR,Solartron
+SAT,Somboon Advance Technology
+SONICm,Sonic Interfreight
+SCP,Southern Concrete Pile
+SPCG,SPCG
+SRIPANWAu,Sri Panwa Hospitality Real Estate Investment Trust
+STA,Sri Trang Agro-Industry
+STGT,Sri Trang Gloves (Thailand)
+SNNP,Srinanaporn Marketing Public Company Limited
+SRICHA,Sriracha Construction
+SCAP,Srisawad Capital 1969
+SAWAD,Srisawad Corporation
+SITHAI,Srithai Superware
+VIH,Srivichai Vejvivat
+SM,Star Money
+SPRC,Star Petroleum Refining
+SFLEX,Starflex
+STCm,STC Concrete Product
+THE,Steel
+STELLA,Stella X
+STI,Stonehenge Inter
+STPI,STP and I
+SST,Sub Sri Thai
+SSTRTu,Sub Sri Thai Real Estate Investment Trust
+SCM,Successmore Being
+SVT,Sun Vending Technology
+SUN,Sunsweet
+SPALI,Supalai
+SUPER,Super Energy Corporation
+TURTLEm,Super Turtle
+SSF,Surapon Foods
+SUSCO,Susco
+SVI,SVI
+SVOA,Svoa
+SYMC,Symphony Communication
+ASAP,Synergetic Auto Performance
+SYNEX,Synnex (Thailand)
+SYNTEC,Syntec Construction
+TACCm,T A C Consumer
+TKT,T Krungthai Industries
+TMCm,T M C Industrial
+TRVm,T R V Rubber Products Public
+TMILLm,T S Flour Mill
+TU-PFu,T U Dome Residential Complex Leasehold Property
+TAKUNIm,Takuni Group
+TTLPFu,Talaad Thai Leasehold Property
+TKN,Taokaenoi Food and Marketing
+TAPACm,Tapaco
+TSTH,Tata Steel (Thailand)
+TCJ,TCJ Asia
+TCMC,TCM Corporation ORS
+TEAMG,Team Consulting Engineering and Management
+TEAM,Team Precision
+TMm,Techno Medical
+TMIm,Teera-Mongkol Industry
+TEKA,Teka Construction
+TGE,Thachang Green Energy
+TAE,Thai Agro Energy
+THAI,Thai Airways International
+TCC,Thai Capital
+TCOAT,Thai Coating Industrial
+TEGH,Thai Eastern Group Holdings
+TIGERm,Thai Enger Holding
+TFI,Thai Future Incorporation
+TGH,Thai Group Holdings
+KASETm,Thai Ha
+TIF1u,Thai Industrial 1
+TLI,Thai Life Insurance
+TMD,Thai Metal Drum
+TMWm,Thai Mitsuwa
+THMUIm,Thai MUI Corporation
+TNHm,Thai Nakarin Hospital
+TNPC,Thai Nam Plastics
+TNDTm,Thai Nondestructive Testing
+TNR,Thai Nippon Rubber Industry
+TOP,Thai Oil
+TOPP,Thai OPP
+TOG,Thai Optical Group
+TPP,Thai Packaging and Printing
+TPAC,Thai Plaspac
+TPLASm,Thai Plastic Industrial 1994
+TPA,Thai Poly Acrylic
+TPOLY,Thai Polycons
+TFMAMA,Thai President Foods
+TR,Thai Rayon
+THRE,Thai Reinsurance
+TRUBB,Thai Rubber Latex Group
+TRU,Thai Rung Union Car
+TSI,Thai Setakij Insurance
+TSE,Thai Solar Energy
+STANLY,Thai Stanley Electric
+TSC,Thai Steel Cable
+TTW,Thai Tap Water Supply
+TTI,Thai Textile
+TFM,Thai Union Feedmill
+TU,Thai Union Group
+TVO,Thai Vegetable Oil
+WACOAL,Thai Wacoal
+TWPC,Thai Wah
+TWP,Thai Wire Products
+TGPRO,Thai-German Products
+TPRIMEu,Thailand Prime Property FHLH REIT
+THCOM,Thaicom
+TFG,Thaifoods Group
+TFFIFu,Thailand Future
+TLHPFu,Thailand Hospitality Property
+THREL,Thaire Life Assurance
+SAUCE,Thaitheparos
+TCAP,Thanachart Capital
+TNPm,Thanapiriya
+THANAm,Thanasiri Group
+THIP,Thantawan Industry
+TNL,Thanulux
+BTCm,The Brooker Group
+PLAT,The Platinum Group
+TPSm,The Practical Solution
+TK,Thitikorn
+THG,Thonburi Healthcare Group
+KDH,Thonburi Medical Centre
+TTA,Thoresen Thai Agency
+TASCO,Tipco Asphalt
+TIPCO,Tipco Foods
+TRTm,Tirathai
+TISCO,Tisco Financial Group
+TKS,Telekomunikasyon Technologies
+TTB,Tmbthanachart Bank
+TMT,TMT Steel
+TOA,Toa Paint Thailand
+TH,Tong Hua Holding
+TTT,Toray Textiles
+TPBI,Tpbi
+TPCHm,TPC Power Holding
+TPCS,TPCS
+TPIPL,TPI Polene
+TPIPP,TPI Polene Power
+TQM,TQM Alpha
+TQRm,TQR
+TRC,TRC Construction
+TNPFu,Trinity FHLH Property Fund
+TNITY,Trinity Watthana
+III,Triple I Logistics
+TRITN,Triton Holding
+TC,Tropical Canning
+TSR,TSR Living Solution
+TSTE,Tste
+TTCL,TTCL
+TKC,Turnkey Communication Services
+TVTm,Television Thunder
+TVDHm,TVD Holdings
+24CSm,Twenty-Four Con and Supply
+TWZ,TWZ
+TYCN,Tycoons Worldwide Group
+UAC,UAC Global Public Company Limited
+UBISm,Ubis (Asia)
+UBE,Ubon Bio Ethanol
+UECm,Unimit Engineering
+AUCTm,Union Auction
+UMI,Union Mosaic
+UKEMm,Union Petrochemical
+UPF,Union Pioneer Fabric
+UP,Union Plastic
+UNIQ,Unique Engineering and Construction
+UMSm,Unique Mining Services
+UPOIC,United Palm Oil Industry
+UTP,United Paper
+UVAN,Univanich Palm Oil
+UV,Univentures
+UOBKH,UOB Kay Hian Securities
+UBAm,Utility Business Alliance
+VLm,V L Enterprise
+VNG,Vanachai Group
+VARO,Varopakorn
+VRANDA,Veranda Resort
+VGI,VGI
+VIBHA,Vibhavadi Medical
+VPO,Vichitbhan Palmoil
+KUN,Villa Kunalai
+VCOMm,Vintcom Technology
+WARRIXm,Warrix Sport
+NEW,Wattana Karnpaet
+WPH,Wattanapat Hospital Trang
+WAVE,Wave Exponential
+WGE,Well Graded Engineering
+WELLm,Well Management Corporat
+WHA,Wha
+WHABTu,Wha Business Complex Freehold and Leasehold REIT
+WHAIRu,Wha Industrial Leasehold REIT Units
+WHARTu,Wha Premium Growth Freehold and Leasehold REIT
+WHAUP,Wha Utilities and Power
+WICE,Wice Logistics
+WIIK,Wiik
+WINNERm,Winner Group Enterprise
+WINMEDm,Winnergy Medical
+WORK,Workpoint Entertainment
+WFX,World Flex
+W,Wow Factor
+WP,WP Energy
+WIN,Wyncoast Industrial Park
+XPG,Xspring Capital
+YGGm,Yggdrazil Group
+YONGm,Yong Concrete
+YUASAm,Yuasa Battery
+ZAA,Zalekta
+ZEN,Zen Corporation
+ZIGAm,Ziga Innovation
+TISCO_f,Tisco Financial Foreign Board Group
+3BBIFv,3BB Internet Foreign Board Infrastructure
+AH_f,Aapico Hitech Foreign Board
+ADVANC_f,Advanced Information Service Foreign Board
+ACE_f,Absolute Clean Foreign Board Energy
+AIT_f,Advanced Information Technology Foreign Board
+AEONTS_f,Aeon Thana Sinsap Foreign Board
+AU_mf,After You Foreign Board
+AIMCGv,AIM Commercial Growth Freehold and Foreign Board Leasehold REIT
+AIMIRTv,AIM Industrial Growth Freehold and Foreign Board Leasehold REIT
+AIRA_mf,Aira Capital Foreign Board
+AOT_f,Airports of Thailand Foreign Board
+AJ_f,AJ Plast Foreign Board
+AKS_f,AKS Corporation Foreign Board
+AE_f,All Energy and Foreign Board Utilities
+ALT_f,Alternative Telecom Foreign Board
+ALUCONz,Alucon Foreign Board
+AMANAH_f,Amanah Leasing Foreign Board
+AMATA_f,Amata Foreign Board
+AMATARv,Amata Summit Growth Freehold and Foreign Board Leasehold REIT
+AMR_f,AMR Asia Foreign Board
+ANAN_f,Ananda Development Foreign Board
+AP_f,AP (Thailand) Foreign Board
+APP_mf,Applicad Public Company Limited Foreign Board
+ADB_mf,Applied DB Foreign Board
+AQUA_f,Aqua Foreign Board
+AAV_f,Asia Aviation Foreign Board
+AFC_f,Asia Fiber Foreign Board
+ASIA_f,Asia Hotel Foreign Board
+ASP_f,Asia Plus Group Holdings Foreign Board
+ASK_f,Asia Sermkij Leasing Foreign Board
+ASIMAR_f,Asian Marine Services Foreign Board
+ASIAN_f,Asian Sea Foreign Board Corporation
+AWC_f,Asset World Foreign Board
+ASW_f,Assetwise Foreign Board
+ACG_f,Autocorp Holding Foreign Board
+BGRIM_f,B Grimm Power Foreign Board
+BCP_f,Bangchak Foreign Board Corporation ORS
+BA_f,Bangkok Airways Foreign Board
+BBL_f,Bangkok Bank Foreign Board
+BCH_f,Bangkok Chain Hospital Foreign Board
+BAM_f,Bangkok Commercial Foreign Board Asset Management
+BDMS_f,Bangkok Dusit Medical Services Foreign Board
+BEM_f,Bangkok Expressway Foreign Board and Metro
+BLAND_f,Bangkok Land Foreign Board
+BLA_f,Bangkok Life Assurance Foreign Board
+BUI_f,Bangkok Union Insurance Foreign Board
+BSBM_f,Bangsaphan Barmill Foreign Board
+BAY_f,Bank of Ayudhya Foreign Board
+BANPU_f,Banpu Foreign Board
+BPP_f,Banpu Power Foreign Board
+BBGI_f,Bbgi Foreign Board
+BCPG_f,BCPG Foreign Board
+BEC_f,BEC World Foreign Board
+BJC_f,Berli Jucker Foreign Board
+BTG_f,Betagro Foreign Board
+BWG_f,Better World Green Foreign Board
+BGC_f,BG Container Glass Foreign Board Public
+BLESS_mf,Bless Asset Group Foreign Board
+BRI_f,Britania Foreign Board
+BTS_f,BTS Group Holdings Foreign Board
+BTSGIFv,BTS RAL Msti Growth Foreign Board Infrastructure
+B-WORKv,Bualuang Office Foreign Board Leasehold REIT
+BH_f,Bumrungrad Hospital Foreign Board
+BRRGIFv,Buriram Sugar Group Foreign Board PWPL Infrastructure
+CBG_f,Carabao Group Foreign Board
+CAZ_mf,CAZ Thailand Public Foreign Board
+CPN_f,Central Pattana Foreign Board
+CENTEL_f,Central Plaza Hotel Foreign Board
+CRC_f,Central Retail Foreign Board Corporation
+CK_f,CH Karnchang Foreign Board
+CEYE_mf,Chamni S Eye Foreign Board
+CI_f,Charn Issara Development Foreign Board
+CPF_f,Charoen Pokphand Foods Foreign Board
+CTW_f,Charoong Thai Wire Cable Foreign Board
+CHAYO_f,Chayo Group Foreign Board
+CMAN_f,Chememanord Foreign Board
+CH_f,Chin Huay Foreign Board
+CHG_f,Chularat Hospital Foreign Board
+CPI_f,Chumporn Palm Oil Industry Foreign Board
+CKP_f,CK Power Foreign Board
+COM7_f,COM7 Foreign Board
+CPW_f,Copperwired Foreign Board
+CGH_f,Country Group Foreign Board Holdings
+CPALL_f,CP All Foreign Board
+CPANEL_mf,Cpanel Foreign Board
+CPT_f,Concepts Drives and Foreign Board Power
+DPAINT_mf,Delta Paint Foreign Board
+DEMCO_f,Demco Foreign Board
+DHOUSE_mf,Dhouse Pattana Foreign Board
+DIFv,Digital Telecommunications Ifcf Foreign Board
+DITTO_f,Ditto (Thailand) Foreign Board
+DDD_f,Do Day Dream Foreign Board
+DOD_mf,DOD Biotechnology Foreign Board
+DMT_f,Don Muang Tollway Foreign Board
+DTCENT_f,DTC Enterprise Foreign Board
+DREITv,Dusit Thani Freehold and Foreign Board Leasehold REIT
+DCC_f,Dynasty Ceramic Foreign Board
+EPG_f,Eastern Polymer Group Foreign Board
+EASTW_f,Eastern Water Resources Development and Management Foreign Board
+EGCO_f,Electricity Generating Foreign Board
+EA_f,Energy Absolute Foreign Board
+ERW_f,Erawan Group Foreign Board
+EVER_f,Everland Foreign Board
+FTE_f,Firetrade Foreign Board Engineering
+FORTH_f,Forth Foreign Board
+FSMART_mf,Forth Smart Service Foreign Board
+FTREITv,Frasers Prop THA Foreign Board Industrielle FHLH REIT
+FPT_f,Frasers Property Foreign Board Public
+GJSz,G J Steel Foreign Board
+GEL_f,General Engineering Foreign Board
+GPSC_f,Global Power Synergy Foreign Board
+VS_mf,Global Service Foreign Board Center
+GLORY_mf,Glory Forever Foreign Board
+GL_f,Group Lease Foreign Board
+GULF_f,Gulf Energy Development Foreign Board
+GUNKUL_f,Gunkul Engineering Foreign Board
+HL_mf,Healthlead Foreign Board
+HENG_f,Heng Leasing and Foreign Board Capital
+HMPRO_f,Home Product Center Foreign Board
+ITC_f,I-Tail Foreign Board
+ICHI_f,Ichitan Group Foreign Board
+IND_mf,Index International Foreign Board Group
+IRC_f,Inoue Rubber Foreign Board
+IP_f,Inter Pharma Foreign Board
+INTUCH_f,Intouch Holdings Foreign Board
+IMPACTv,Ipct Growth Real Estate Investment Trust Foreign Board Units
+IRPC_f,IRPC Foreign Board
+ITD_f,Italian-Thai Development Foreign Board
+JR_f,J R W Utility Foreign Board
+J_f,JAS Asset Foreign Board
+JAS_f,Jasmine International Foreign Board
+JMART_f,Jaymart Group Foreign Board Holdings
+JDF_f,JD Food Foreign Board
+JKN_f,JKN Global Group Foreign Board
+JMT_f,JMT Network Services Foreign Board
+KAMART_f,Karmarts Foreign Board
+KBANK_f,Kasikornbank Foreign Board
+KCE_f,KCE Electronic Foreign Board
+KEX_f,Kerry Express Foreign Board (Thailand)
+KGI_f,KGI Securities Foreign Board
+KSL_f,Khon Kaen Sugar Foreign Board
+KBS_f,Khonburi Sugar Foreign Board
+KKP_f,Kiatnakin Phatra Foreign Board Bank
+KJL_mf,Kitcharoen Foreign Board Engineering Electric
+KLINIQ_mf,Klinique Medical Foreign Board Clinic
+KTB_f,Krung Thai Bank Foreign Board
+KTC_f,Krungthai Card Foreign Board
+LPH_f,Ladprao General Foreign Board Hospital
+LH_f,Land and Houses Foreign Board
+LEE_f,Lee Feed Mill Foreign Board
+LOXLEY_f,Loxley Foreign Board
+LPN_f,LPN Development Foreign Board
+MVP_mf,M Vision Foreign Board
+M-CHAI_f,Mahachai Hospital Foreign Board
+MAJOR_f,Major Cineplex Group Foreign Board
+MTW_mf,Make to Win Holding Foreign Board
+MALEE_f,Malee Group Foreign Board
+MBK_f,MBK Foreign Board
+MC_f,MC Group Foreign Board
+MCOT_f,Mcot Foreign Board
+MCS_f,MCS Steel Foreign Board
+MDX_f,MDX Foreign Board
+MITv,MFC Industrial Real Estate Investment Trust Foreign Board Units
+MINT_f,Minor International Foreign Board
+M_f,MK Restaurant Group Foreign Board
+MORE_mf,More Return Foreign Board
+MOSHI_f,Moshi Moshi Retail Foreign Board
+MTC_f,Muangthai Capital Foreign Board ORS
+MUD_mf,MUD and Hound Foreign Board
+NATION_f,Nation Group Foreign Board (Thailand)
+NPK_mf,New Plus Knitting Foreign Board
+NEWS_mf,News Network Foreign Board Corporation
+NOBLE_f,Noble Development Foreign Board
+EGATIFv,North Bangkok Power Plant Block 1 Infrastructure Fund Foreign Board
+NER_f,North East Rubbers Foreign Board
+NRF_f,NR Instant Produce Foreign Board
+NSL_f,NSL Foods Foreign Board
+STELLA_f,Nusasiri Foreign Board
+ONEE_f,One Enterprise Foreign Board
+ORI_f,Origin Property Foreign Board
+OSP_f,Osotspa Foreign Board
+PATO_f,Pato Chemical Industry Foreign Board
+PEACE_f,Peace and Living Foreign Board
+PIN_f,Pinthong Industrial Foreign Board Park
+PLANB_f,Plan B Media Foreign Board
+PDJ_f,Pranda Jewelry Foreign Board
+PR9_f,Praram 9 Hospital Foreign Board
+PSL_f,Precious Shipping Foreign Board
+PM_f,Premier Marketing Foreign Board
+PTC_mf,Premier Tank Foreign Board
+PRM_f,Prima Marine Foreign Board
+PRINC_f,Principal Capital Foreign Board
+PRIN_f,Prinsiri Foreign Board
+PROEN_mf,Proen Foreign Board
+PPS_mf,Project Planning Foreign Board Service
+PF_f,Property Perfect Foreign Board
+PROS_mf,Prosper Engineering Foreign Board
+PSH_f,Pruksa Holding Foreign Board
+PTG_f,Participating Energy Foreign Board
+PTTEP_f,PTT Exploration and Foreign Board Production
+PTT_f,PTT Foreign Board
+PTTGC_f,PTT Global Chemical Foreign Board
+OR_f,PTT Oil and Retail Foreign Board Business
+QTC_f,QTC Energy Foreign Board
+QLT_mf,Qualitech Foreign Board
+QH_f,Quality Houses Foreign Board
+RBF_f,R&B Food Supply Foreign Board
+RABBIT_f,Rabbit Holdings Foreign Board
+RML_f,Raimon Land Foreign Board
+RJH_f,Rajthanee Hospital Foreign Board Public
+RATCH_f,Ratch Group Public Company Limited Foreign Board
+THANI_f,Ratchthani Leasing Foreign Board
+RCL_f,Regional Container Foreign Board Lines
+ROJNA_f,Rojana Industrial Foreign Board Park
+PLUS_f,Royal Plus Foreign Board
+RS_f,RS Foreign Board
+SHR_f,S Hotels and Foreign Board Resorts
+SPI_f,Saha Pathana Inter- Foreign Board Holding
+SMIT_f,Sahamit Machinery Foreign Board
+SAK_f,Saksiam Leasing Foreign Board
+SAMART_f,Samart Foreign Board
+SIRI_f,Sansiri Foreign Board
+SAPPE_f,Sappe Foreign Board
+SCB_f,SCB X Public Foreign Board Company Limited
+SCGP_f,SCG Packaging Foreign Board
+SJWD_f,SCGJWD Logistics Foreign Board
+CFRESH_f,Seafresh Industry Foreign Board
+SELIC_f,Selic Foreign Board
+SSP_f,Sermsang Power Foreign Board Corporation
+SFT_mf,Shrinkflex Foreign Board (Thailand)
+SCC_f,Siam Cement Foreign Board
+SCCC_f,Siam City Cement Foreign Board
+GLOBAL_f,Siam Global House Foreign Board
+STECH_f,Siam Technic Foreign Board Concrete
+SICT_mf,Silicon Craft Foreign Board Technology
+SIMAT_mf,Simat Technologies Foreign Board
+S_f,Singha Estate Foreign Board
+SISB_f,Sisb Foreign Board
+SKY_f,Sky ICT Foreign Board
+SMART_mf,Smart Concrete Foreign Board
+SAT_f,Somboon Advance Foreign Board Technology
+SPCG_f,SPCG Foreign Board
+STGT_f,Sri Trang Gloves Foreign Board (Thailand)
+STA_f,Sri Trang-Agro Foreign Board Industry
+SNNP_f,Srinanaporn Foreign Board Marketing Public Company Limited
+SRICHA_f,Sriracha Foreign Board Construction
+SAWAD_f,Srisawad Foreign Board Corporation
+VIH_f,Srivichai Vejvivat Foreign Board
+STPI_f,STP and I Foreign Board
+SSTRTv,Sub Sri Thai REIT Foreign Board Unit
+SPALI_f,Supalai Foreign Board
+SSF_f,Surapon Foods Foreign Board
+SUSCO_f,Susco Foreign Board
+TKN_f,Taokaenoi Food and Foreign Board Marketing
+TEAMG_f,Team Consulting Engineering and Foreign Board Management
+THAI_f,Thai Airways International Foreign Board
+TCC_f,Thai Capital Foreign Board
+TEGH_f,Thai Eastern Group Foreign Board Holdings
+TLI_f,Thai Life Insurance Foreign Board
+TNR_f,Thai Nippon Rubber Foreign Board Industry
+TOP_f,Thai Oil Foreign Board
+TSE_f,Thai Solar Energy Foreign Board
+STANLY_f,Thai Stanley Foreign Board Electric
+TFM_f,Thai Union Feedmill Foreign Board
+TU_f,Thai Union Group Foreign Board
+TVO_f,Thai Vegetable Oil Foreign Board
+TWPC_f,Thai Wah Foreign Board
+THCOM_f,Thaicom Foreign Board
+TFG_f,Thaifoods Group Foreign Board
+TFFIFv,Thailand Future Foreign Board
+TCAP_f,Thanachart Capital Foreign Board
+BTC_mf,The Brooker Group Foreign Board
+TTA_f,Thoresen Thai Agency Foreign Board
+TASCO_f,Tipco Asphalt Foreign Board
+TTB_f,Tmbthanachart Bank Foreign Board
+TOA_f,Toa Paint Thailand Foreign Board
+TPIPL_f,TPI Polene Foreign Board
+TPIPP_f,TPI Polene Power Foreign Board
+TQM_f,TQM Alpha Foreign Board
+TNPFv,Trinity FHLH Property Fund Foreign Board
+TTCL_f,TTCL Foreign Board
+TTW_f,TTW Foreign Board
+TKC_f,Turnkey Foreign Board Communication Services
+UBE_f,Ubon Bio Ethanol Foreign Board
+AUCT_mf,Union Auction Foreign Board
+UNIQ_f,Unique Engineering Foreign Board and Construction
+UVAN_f,Univanich Palm Oil Foreign Board
+UV_f,Univentures Foreign Board
+VNG_f,Vanachai Group Foreign Board
+VRANDA_f,Veranda Resort Foreign Board
+VGI_f,VGI Foreign Board
+VIBHA_f,Vibhavadi Medical Foreign Board
+NEW_f,Wattana Karnpaet Foreign Board
+WHA_f,Wha Foreign Board
+WHARTv,Wha Premium Growth Freehold and Foreign Board Leasehold REIT
+WHAUP_f,Wha Utilities and Foreign Board Power
+WINMED_mf,Winnergy Medical Foreign Board
+WORK_f,Workpoint Foreign Board Entertainment
+WFX_f,World Flex Foreign Board
+W_f,Wow Factor Foreign Board
+WP_f,WP Energy Foreign Board
+XPG_f,Xspring Capital Foreign Board
+YGG_mf,Yggdrazil Group Foreign Board
+ZIGA_mf,Ziga Innovation Foreign Board
+BABA80x,BABA80 CS DR
+BYDCOM80x,BYD Company CS DR
+TENCENT80x,TENCENT80 CS DR
+XIAOMI80x,Xiaomi Corporation CS DR

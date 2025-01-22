@@ -10,4 +10,4 @@ pandas
 plotly
 scipy
 ploomber
-
+openpyxl
